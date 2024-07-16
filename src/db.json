@@ -1,0 +1,106 @@
+{
+  "users": [
+    {
+      "id": "ce1e",
+      "email": "tauqeer@gmail.com",
+      "password": "1234567"
+    },
+    {
+      "id": "76b6",
+      "email": "tauqeer9339@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "1718778070229",
+      "name": "tauseef",
+      "email": "tauseef@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "1718788942056",
+      "username": "tauqeergithub",
+      "email": "tauqeer9331@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "1718789493522",
+      "username": "amit123",
+      "email": "amit@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "1718789671256",
+      "username": "v-tauqeer.ahmad",
+      "email": "v-tauqeer.ahmad@harbingergroup.com",
+      "password": "password"
+    },
+    {
+      "id": "1719210285966",
+      "username": "tauqeer1234",
+      "email": "abc@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "1719245969605",
+      "username": "abc2442",
+      "email": "abc222@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "1719246519992",
+      "username": "test1111",
+      "email": "test1111@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "1719246561022",
+      "username": "tauqeer5647647",
+      "email": "tauqeer@mail.com",
+      "password": "password"
+    },
+    {
+      "id": "1719246640424",
+      "username": "qwerty",
+      "email": "qwerty@gmail.com",
+      "password": "password"
+    },
+    {
+      "id": "1719295219633",
+      "username": "eeee2343",
+      "email": "ee@gmail.com",
+      "password": "password"
+    }
+  ],
+  "todos": [
+    {
+      "id": "1719918425382",
+      "text": "test2 updates",
+      "completed": false
+    },
+    {
+      "id": "1720946797901",
+      "text": "new task",
+      "completed": false
+    },
+    {
+      "id": "1720946804671",
+      "text": "check task",
+      "completed": false
+    },
+    {
+      "id": "1720946812673",
+      "text": "alpha task",
+      "completed": false
+    },
+    {
+      "id": "1720946818565",
+      "text": "beta task",
+      "completed": false
+    },
+    {
+      "id": "1720946826898",
+      "text": "gamma task",
+      "completed": false
+    }
+  ]
+}
